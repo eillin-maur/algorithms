@@ -29,3 +29,4 @@ class Solution {
         System.out.println(BinarySearch(arr, -1, 0, arr.length-1));
     }
  }
+ 
